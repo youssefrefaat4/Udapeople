@@ -1,0 +1,5 @@
+URL 01: https://github.com/AustinAMeyer/Give-your-Application-Auto-Deploy-Superpowers
+URL 02: http://udapeople-7904f35.s3-website-us-west-2.amazonaws.com
+URL 03: drpvxixnqvbwa.cloudfront.net
+URL 04: ec2-35-160-212-157.us-west-2.compute.amazonaws.com
+URL 05: ec2-54-202-40-84.us-west-2.compute.amazonaws.com
