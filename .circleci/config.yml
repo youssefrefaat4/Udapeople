@@ -479,5 +479,5 @@ workflows:
           requires: [deploy-backend, deploy-frontend]
       - cloudfront-update_or_create:
           requires: [smoke-test]
-      - cleanup:
-          requires: [cloudfront-update_or_create]
+#      - cleanup:
+#          requires: [cloudfront-update_or_create]
